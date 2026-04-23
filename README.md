@@ -9,18 +9,27 @@ The data was obtained from Kaggle (Titanic Dataset), containing information such
 🔍 Project Stages
 
 Exploratory Data Analysis (EDA)
+
 Missing Value Handling
+
 Feature Engineering
+
 Transformation of Categorical Variables
+
 Training of Machine Learning Models
 
 ⚙️ Models Used
+
 Logistic Regression
+
 Random Forest
 
 📈 Results
+
 Model Accuracy
+
 Logistic Regression 0.804
+
 Random Forest 0.827
 
 Kaggle Score: 0.74880
@@ -35,7 +44,11 @@ The Random Forest model showed better overall performance, especially in identif
 🚀 Technologies used
 
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Matplotlib/Seaborn
