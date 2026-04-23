@@ -52,3 +52,11 @@ NumPy
 Scikit-learn
 
 Matplotlib/Seaborn
+
+📥 How to obtain the data
+
+The data is not included in this repository.
+
+To run the project, download the dataset from Kaggle:
+
+👉 https://www.kaggle.com/competitions/titanic/data
